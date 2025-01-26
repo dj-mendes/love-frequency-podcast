@@ -26,3 +26,6 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# My Configurations
+.idea/
